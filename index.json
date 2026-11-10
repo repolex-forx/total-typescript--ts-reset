@@ -1,0 +1,11 @@
+{
+  "org": "total-typescript",
+  "repo": "ts-reset",
+  "versions": [
+    {
+      "commit": "81b3b2614a32e47948cd4b8d5468879c07c2b361",
+      "tag": "",
+      "parsed_at": "2026-11-10T08:53:52.147005+00:00"
+    }
+  ]
+}
