@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/total-typescript/ts-reset/commit/81b3b2614a32e47948cd4b8d5468879c07c2b361",
       "git:hexsha": "81b3b2614a32e47948cd4b8d5468879c07c2b361",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/total-typescript/ts-reset/commit/2cdcb3b062aff9807a96bc254f7b67fe69fbe158",
